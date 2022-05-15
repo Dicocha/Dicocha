@@ -5,7 +5,7 @@ I am a student permanent :nerd_face:, love to study things that like me, and all
 
 ## 👀 Technologies:
 
-### I know:
+### :deciduous_tree: I know:
 - Python
 - MySQL
 
