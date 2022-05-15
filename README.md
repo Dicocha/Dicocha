@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @Dicocha.
-- 👀 I’m interested in learn tecnologies, relacioned to python.
-- 🌱 I’m currently learning python and dockers.
-- 📫 How to reach me diegocoto27@outlook.com
+# 👋 Hi, I’m @Dicocha.
 
-<!---
-Dicocha/Dicocha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a student permanent :nerd_face:, love to study things that like me, and all the projects I have below are a figment of my imagination.:smirk::thought_balloon:
+
+
+## 👀 Technologies:
+
+### I know:
+- Python
+- MySQL
+
+### 🌱 I want to know:
+- HTML
+- CSS
+- Git
+- Bash
+- Javascript
+
+## 📫 Contact:
+- My [phone number](85410275).
+- My [E-mail](diegocoto27@outlook.com).
+- My [Linkdin](https://www.linkedin.com/in/diego-esteban-coto-chaves-375096236/).
