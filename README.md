@@ -8,11 +8,11 @@ I am a student permanent :nerd_face:, love to study things that like me, and all
 ### :deciduous_tree: I know:
 - Python
 - MySQL
+- Git
 
 ### 🌱 I want to know:
 - HTML
 - CSS
-- Git
 - Bash
 - Javascript
 
