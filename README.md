@@ -17,6 +17,5 @@ I am a student permanent :nerd_face:, love to study things that like me, and all
 - Javascript
 
 ## 📫 Contact:
-- My [phone number](85410275).
 - My [E-mail](diegocoto27@outlook.com).
 - My [Linkdin](https://www.linkedin.com/in/diego-esteban-coto-chaves-375096236/).
