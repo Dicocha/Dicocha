@@ -9,10 +9,10 @@ I am a student permanent :nerd_face:, love to study things that like me, and all
 - Python
 - MySQL
 - Git
-
-### 🌱 I want to know:
 - HTML
 - CSS
+
+### 🌱 I want to know:
 - Bash
 - Javascript
 
