@@ -12,10 +12,4 @@ I am a student permanent :nerd_face:, love to study things that like me, and all
 - HTML
 - CSS
 
-### 🌱 I want to know:
-- Bash
-- Javascript
-
-## 📫 Contact:
-- My [E-mail](diegocoto27@outlook.com).
-- My [Linkdin](https://www.linkedin.com/in/diego-esteban-coto-chaves-375096236/).
+My [Linkdin](https://www.linkedin.com/in/diego-esteban-coto-chaves-375096236/).
